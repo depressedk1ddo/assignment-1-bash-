@@ -1,0 +1,9 @@
+aarch64-none-linux-gnu-gcc -v
+
+COLLECT_GCC=aarch64-none-linux-gnu-gcc
+COLLECT_LTO_WRAPPER=/usr/lib/gcc-cross/aarch64-linux-gnu/9/lto-wrapper
+Target: aarch64-linux-gnu
+Configured with: ../src/configure -v --with-pkgversion='Ubuntu/Linaro 9.3.0-17ubuntu1~20.04' --with-bugurl=file:///usr/share/doc/gcc-9/README.Bugs --enable-languages=c,c++ --prefix=/usr --with-sysroot=/usr/aarch64-linux-gnu
+
+Sysroot Path:
+/usr/aarch64-linux-gnu
